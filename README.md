@@ -1,6 +1,6 @@
 # Bike Sales & Customer Insights Dashboard
 
-![Bike Sales Dashboard](dashboard.png)
+![Bike Sales Dashboard](Dashboard.png)
 
 ## Project Overview
 
