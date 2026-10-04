@@ -1,5 +1,7 @@
 # Bike Sales & Customer Insights Dashboard
 
+![Bike Sales Dashboard](dashboard.png)
+
 ## Project Overview
 
 This project transforms a dataset containing 1,000 customer records into an interactive Excel dashboard designed to analyse bike purchasing behaviour and customer demographics.
